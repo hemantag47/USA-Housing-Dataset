@@ -7,7 +7,7 @@ Your neighbor then gives you some information about a bunch of houses in regions
 
 The data contains the following columns:
 
-'Avg. Area Income': Avg. Income of residents of the city house is located in.
+'Avg. Area Income': Avg. Income of residents of the city house is lojhkjhjhkkjhkcated in.
 'Avg. Area House Age': Avg Age of Houses in same city
 'Avg. Area Number of Rooms': Avg Number of Rooms for Houses in same city
 'Avg. Area Number of Bedrooms': Avg Number of Bedrooms for Houses in same city
